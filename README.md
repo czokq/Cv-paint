@@ -38,5 +38,4 @@ Polskojęzyczna aplikacja do edycji grafiki rastrowej inspirowana Microsoft Pain
 
 1. Sklonuj repozytorium:
 ```bash
-git clone https://github.com/twoja_nazwa/twoje_repozytorium.git
-cd twoje_repozytorium
+gh repo clone czokq/Cv-paint
