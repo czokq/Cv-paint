@@ -45,7 +45,7 @@ def aktualizuj_plotno():
 
 def rysuj_panel():
     for widget in ramka_panelu.winfo_children():
-        widget.destroy()
+        widget.destroy()#
 
     # Przyciski narzędzi
     for narzedzie in narzedzia:
