@@ -22,7 +22,7 @@ Polskojęzyczna aplikacja do edycji grafiki rastrowej inspirowana Microsoft Pain
   - 💾 Zapisywanie obrazu do pliku PNG
   - 📂 Wczytywanie istniejących obrazów (PNG, JPG, BMP)
   - 🖍️ Zmiana koloru tła płótna
-  - ✨ Dodatkowo: Narzędzie do wypełniania obszarów (kubełek farby)
+  - ✨ Narzędzie do wypełniania obszarów (kubełek farby)
 
 - **Zaawansowane:**
   - 🔄 Automatyczne skalowanie wczytywanych obrazów
@@ -35,9 +35,9 @@ Polskojęzyczna aplikacja do edycji grafiki rastrowej inspirowana Microsoft Pain
 - Biblioteki: `opencv-python`, `Pillow`, `numpy`
 
 ## Instalacja
-'''bash
+
 📦 **Release 1.0**: [Pobierz plik .exe](https://github.com/twoja_nazwa_użytkownika/twoje_repozytorium/releases/tag/v1.0)
 
-## Sklonuj repozytorium:
+### Sklonuj repozytorium:
 ```bash
 gh repo clone czokq/Cv-paint
