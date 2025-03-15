@@ -35,7 +35,9 @@ Polskojęzyczna aplikacja do edycji grafiki rastrowej inspirowana Microsoft Pain
 - Biblioteki: `opencv-python`, `Pillow`, `numpy`
 
 ## Instalacja
+'''bash
+📦 **Release 1.0**: [Pobierz plik .exe](https://github.com/twoja_nazwa_użytkownika/twoje_repozytorium/releases/tag/v1.0)
 
-1. Sklonuj repozytorium:
+## Sklonuj repozytorium:
 ```bash
 gh repo clone czokq/Cv-paint
