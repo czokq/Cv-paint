@@ -36,7 +36,7 @@ Polskojęzyczna aplikacja do edycji grafiki rastrowej inspirowana Microsoft Pain
 
 ## Instalacja
 
-📦 **Release 1.0**: [Pobierz plik .exe](https://github.com/twoja_nazwa_użytkownika/twoje_repozytorium/releases/tag/v1.0)
+📦 **Release 1.0**: [Pobierz plik .exe](https://github.com/czokq/Cv-paint/releases/tag/paint)
 
 ### Sklonuj repozytorium:
 ```bash
